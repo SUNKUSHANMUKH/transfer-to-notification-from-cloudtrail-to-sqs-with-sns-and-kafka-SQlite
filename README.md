@@ -1,7 +1,3 @@
-Sure! Here is a clean, production-ready **README.md** you can use for your CloudTrail → SQS → Fluentd → Kafka pipeline.
-If you want, I can also package this into your existing ZIP.
-
----
 
 # **CloudTrail → SQS → Fluentd (EC2) → Kafka Pipeline**
 
@@ -186,5 +182,3 @@ I can also generate:
 * A Lambda-based alternative to Fluentd
 
 ---
-
-If you'd like, I can **replace the README in your ZIP** or **generate a more advanced version** with diagrams.
